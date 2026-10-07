@@ -1,0 +1,33 @@
+Taruh foto di folder ini dengan NAMA FILE persis seperti di bawah (JPG, sisi panjang 1600-2000 px).
+File yang tidak ada otomatis memakai blok cadangan. Pastikan lisensi tiap foto.
+
+penari.jpg
+rumah-gadang-1.jpg
+rumah-gadang-2.jpg
+rumah-gadang-3.jpg
+rumah-gadang-4.jpg
+rumah-gadang-5.jpg
+rendang.jpg
+rumah-gadang.jpg
+gondang.jpg
+tari-piring.jpg
+batik.jpg
+candi-borobudur.jpg
+candi-prambanan.jpg
+angklung.jpg
+sate-lilit.jpg
+tari-kecak.jpg
+raja-ampat.jpg
+pacu-jalur.jpg
+danau-toba.jpg
+rumah-betang.jpg
+tari-hudoq.jpg
+sasando-dayak.jpg
+tongkonan.jpg
+coto-makassar.jpg
+tenun-ikat.jpg
+pulau-komodo.jpg
+papeda.jpg
+tari-cakalele.jpg
+noken.jpg
+ukiran-jepara.jpg
